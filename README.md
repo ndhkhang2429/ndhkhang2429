@@ -1,57 +1,43 @@
-# 👋 Hi, I'm Nguyễn Đặng Hoàng Khang
-
-🎓 IT Student at Vietnam National University, Ho Chi Minh City (FIT@HCMUS).
-💼 **Actively seeking Internship opportunities as a Game Developer, Technical Artist, or Web Developer.**
-🔭 Focused on: 2D/3D Game Development, Technical Art, Web Development, and Intelligent Agents.
+# Nguyễn Đặng Hoàng Khang
+**Game Developer | Technical Artist | Web Developer**
+📍 Ho Chi Minh City, Vietnam • 🎓 FIT@HCMUS
 
 ---
 
-### 🔍 Professional Focus
+## 👨‍💻 About Me
+I am an Information Technology student at Vietnam National University, Ho Chi Minh City (FIT@HCMUS), currently seeking **Internship opportunities**. 
+I specialize in **Game Development** and **Web Development**, with a strong passion for blending programming with visual arts as a **Technical Artist**. My academic and project background has equipped me with a solid foundation in Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), System Design, and a growing interest in Agentic AI.
 
-*   🎮 **Game Development & Technical Art:** Designing and building games using **C#** and **Unity**. Passionate about bridging the gap between art and programming, optimizing game assets, and creating immersive 2D/3D mechanics.
-*   🌐 **Web Development:** Building robust web applications with a solid foundation in **Java**, **HTML5**, and **CSS3**.
-*   💻 **Software Engineering & AI:** Strong core in Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and System Design, with a growing interest in Agentic AI.
+## 🚀 Areas of Expertise
+- **Game Development & Technical Art:** Developing engaging 2D/3D gameplay mechanics, optimizing game assets, and building interactive experiences using **Unity** and **C#**.
+- **Web Development:** Architecting robust web applications utilizing **Java**, **HTML5**, and **CSS3**.
+- **Software Engineering:** Applying core computer science principles and low-level system understanding (C/C++) to write clean, scalable, and maintainable code.
 
----
+## 🛠️ Technical Arsenal
 
-### 🛠️ Technical Stack
+**Languages:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages & Web** | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Game Dev & Art** | ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) |
-| **Tools & Version Control** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+**Game Engine & Tools:**  
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ndhkhang2429&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhkhang2429&layout=compact&hide_border=true&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117" height="160" alt="Top Languages"/>
+</p>
 
-### 📊 GitHub Activity & Statistics
+## 📬 Get In Touch
+I am currently open to internships, collaborations, and tech discussions. Feel free to connect with me!
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ndhkhang2429&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ndhkhang2429&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
----
-
-### 📫 Professional Contact
-
-I am always open to discussing game dev projects, technical art collaborations, web development, and internship opportunities.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khangnguyen22072006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/khang.eragon.9)
-
-<!--
-**ndhkhang2429/ndhkhang2429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:khangnguyen22072006@gmail.com"><img src="https://img.shields.io/badge/Email-khangnguyen22072006@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/khang-nguyen-82970933a"><img src="https://img.shields.io/badge/LinkedIn-Hoàng_Khang-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/khang.eragon.9047"><img src="https://img.shields.io/badge/Facebook-Khang_Nguyễn-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
