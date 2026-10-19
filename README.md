@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nguyễn Đặng Hoàng Khang
 
 ## 👨‍💻 About Me
-- B.Sc. Information Technology @ Vietnam National University, Ho Chi Minh City (FIT@HCMUS)
+- B.Sc. Software Engineer @ Vietnam National University, Ho Chi Minh City (FIT@HCMUS)
 - **Open to Work** | Game Developer | Technical Artist | Web Developer
 - Focused on designing immersive 2D/3D gameplay mechanics, optimizing visual assets, and building robust software solutions.
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Technical Asernal
+### 🛠️ Technical Arsenal
 
 | Category | Technologies |
 | :--- | :--- |
