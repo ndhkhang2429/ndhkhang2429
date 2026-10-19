@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhkhang2429&layout=compact&hide_border=true&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117" height="160" alt="Top Languages"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhkhang2429&hide_border=true&background=0D1117" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhkhang2429&background=0D1117&ring=2ea043&fire=f85f31&currStreakNum=c9d1d9&currStreakLabel=2ea043&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
 
 ---
