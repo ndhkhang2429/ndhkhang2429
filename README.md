@@ -36,7 +36,7 @@
 ---
 
 ### 📬 Get In Touch
-I am highly motivated to pursue a career in the gaming industry. I am actively seeking **Internships and Junior roles** focused exclusively on **Game Development** and **Technical Art (TA)**. If you are looking for an aspiring developer who can effectively bridge the gap between technical programming and creative visual design, I would love to connect!
+I am actively seeking **Internships and Junior roles** focused exclusively on **Game Development** and **Technical Art (TA)**. If you are looking for an aspiring developer who can effectively bridge the gap between technical programming and creative visual design, I would love to connect!
 
 <a href="mailto:khangnguyen22072006@gmail.com"><img src="https://img.shields.io/badge/Email-khangnguyen22072006@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/khang-nguyen-82970933a"><img src="https://img.shields.io/badge/LinkedIn-Hoàng_Khang-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
